@@ -10,6 +10,6 @@
 
 ✔️useEffect
 
-✔️ useMemo
+✔️useMemo
 
 ✔️useCallback
